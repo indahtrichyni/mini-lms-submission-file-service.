@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.DS_Store
+# Keep placeholder files, but do not commit uploaded user files or generated metadata
+storage/*
+!storage/.gitkeep
+data/submissions/*
+!data/submissions/.gitkeep
+evidence/*
+!evidence/.gitkeep
